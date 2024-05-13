@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="link-to-sponsor-page">
-    <img src="images/sponsor-button.png" alt="Sponsor" width="150">
+    <img src="sponsor.png" alt="Sponsor" width="150">
   </a>
 </p>
 
