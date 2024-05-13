@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="link-to-sponsor-page">
-    <img src="sponsor.png" alt="Sponsor" width="150">
+  <a href="https://github.com/sponsors/Circuit-Overtime">
+    <img src="sponsor.png" alt="Sponsor" width="250">
   </a>
 </p>
 
