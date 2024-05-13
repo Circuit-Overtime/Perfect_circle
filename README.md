@@ -5,7 +5,7 @@
 <h1 align="center">Perfect Circle Drawing Algorithm</h1>
 
 <p align="center">
-  <em>Automatically generate almost perfect circles.</em>
+  <em>A Sponsor of $5 would mean the world to me!</em>
 </p>
 
 <p align="center">
